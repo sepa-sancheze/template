@@ -1,1 +1,1 @@
-# template
+# Repo test for students
